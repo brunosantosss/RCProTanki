@@ -1,7 +1,7 @@
 
 # RCProTanki
 
-RCProTanki é um RPC Pro Tanki Online para Discord. Que tal mostrar pros seus amigos (ou nem tão amigos assim) que está jogando o PROTanki?
+RCProTanki é um RPC Pro Tanki Online para Discord. Que tal mostrar pros seus amigos (ou nem tão amigos assim) que está jogando Pro Tanki Online?
 
 ## Features
 
